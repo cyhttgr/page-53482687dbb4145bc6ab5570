@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.aboea.cn/sitemap.xml
